@@ -6,6 +6,7 @@ package com.lzz.pojo;
  */
 public class User {
 
+	//≤‚ ‘git
     private String id;
     private String username;
     private String password;
